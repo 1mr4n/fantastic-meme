@@ -1,0 +1,26 @@
+    #indexh2{color: blue; text-decoration: underline;
+      font-size: 23pt;}
+    #indexh3{font-size: 16}
+    #indexp1{font-size:14pt}
+    #indexul{font-style: italic;}
+    #home{color: purple}
+    #stories{color: purple}
+    #contact{color: purple}
+    #ytlink{color: purple}
+    html{background-color: silver}
+    #divpic{background-color:red; position: absolute; left: 8px; border: dashed}
+    #divform{background-color: green; position: fixed; bottom: 0; left: 333px; width: 200px; border: dashed}
+
+    h2{ color: blue; text-decoration: underline; font-size: 23pt;}
+    h3{font-size: 16}
+    p1{font-size:14pt}
+    p2{font-size:14pt}
+    nav{color: purple}
+    html{background-color: silver}
+    #p1{color: maroon; display: block;}
+    #p2{color: orange; display: contents;}
+    .headings{color: white}
+    #div1{background-color: tan}
+    #div2{background-color:red}
+    #div3{background-color: green}
+    #div1, #div2, #div3 {border: dashed}
